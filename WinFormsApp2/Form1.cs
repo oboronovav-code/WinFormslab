@@ -11,5 +11,10 @@ namespace WinFormsApp2
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            label1.Text = "Hello! " + textBox1.Text;
+        }
     }
 }
