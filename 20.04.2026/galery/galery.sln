@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galery", "galery.csproj", "{69DBAC10-9D15-807A-9620-865A1DA01FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saper", "..\saper\saper.csproj", "{26999BEF-7103-46C0-AE6D-13103599B002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DBAC10-9D15-807A-9620-865A1DA01FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DBAC10-9D15-807A-9620-865A1DA01FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DBAC10-9D15-807A-9620-865A1DA01FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DBAC10-9D15-807A-9620-865A1DA01FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26999BEF-7103-46C0-AE6D-13103599B002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26999BEF-7103-46C0-AE6D-13103599B002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26999BEF-7103-46C0-AE6D-13103599B002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26999BEF-7103-46C0-AE6D-13103599B002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04192DA3-1124-40C4-830C-5EF76165D48A}
+	EndGlobalSection
+EndGlobal
